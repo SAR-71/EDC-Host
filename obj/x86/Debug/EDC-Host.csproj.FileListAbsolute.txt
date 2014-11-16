@@ -1,0 +1,5 @@
+C:\Users\SAR\Documents\Visual Studio 2010\Projects\EDC-Host\EDC-Host\obj\x86\Debug\EDA-Host.exe
+C:\Users\SAR\Documents\Visual Studio 2010\Projects\EDC-Host\EDC-Host\obj\x86\Debug\EDA-Host.pdb
+C:\Users\SAR\Documents\Visual Studio 2010\Projects\EDC-Host\EDC-Host\bin\Debug\EDA-Host.exe
+C:\Users\SAR\Documents\Visual Studio 2010\Projects\EDC-Host\EDC-Host\bin\Debug\EDA-Host.pdb
+C:\Users\SAR\Documents\Visual Studio 2010\Projects\EDC-Host\EDC-Host\obj\x86\Debug\EDC-Host.csprojResolveAssemblyReference.cache
